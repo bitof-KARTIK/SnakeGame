@@ -1,4 +1,4 @@
-Overview
+<h1>Overview</h1>
 
 Welcome to the Snake Game, a classic arcade-style game with a modern twist. 
 This JavaScript-based game provides an engaging experience where players control a snake, aiming to collect food and grow while avoiding collisions with themselves and the walls.
@@ -81,5 +81,3 @@ Enjoy the Snake Game and happy gaming!
 
 
 
-
-live at: https://kartik26113.github.io/SnakeGame/
