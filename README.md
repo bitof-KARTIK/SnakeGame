@@ -4,7 +4,7 @@ Welcome to the Snake Game, a classic arcade-style game with a modern twist.
 This JavaScript-based game provides an engaging experience where players control a snake, aiming to collect food and grow while avoiding collisions with themselves and the walls.
 
 
-Features
+<h1>Features</h1>
 
 Responsive Design: Enjoy a seamless gaming experience on various devices.
 
@@ -18,7 +18,7 @@ Intuitive Controls: Use arrow keys to navigate the snake, enhancing user-friendl
 
 
 
-How to Play
+<h1>How to Play</h1>
 
 Use arrow keys to control the snake's direction.
 
@@ -29,7 +29,8 @@ Avoid collisions with the snake's body and the game boundaries.
 Challenge yourself to achieve the highest score.
 
 
-Getting Started
+<h1>
+Getting Started</h1>
 
 Download or clone the repository.
 
@@ -40,7 +41,7 @@ Use arrow keys to control the snake and enjoy the game.
 
 
 
-Code Structure
+<h1>Code Structure</h1>
 Variables: inputDir, speed, score, and more are defined at the beginning for easy customization.
 
 Game Loop: The main function handles the game loop using requestAnimationFrame.
@@ -54,7 +55,7 @@ Event Listener: Arrow key inputs trigger direction changes through the window.ad
 
 
 
-Customization
+<h1>Customization</h1>
 
 Adjust the speed variable to control the game's pace.
 
@@ -65,7 +66,7 @@ Modify the game board dimensions and appearance in the CSS file.
 
 
 
-Credits
+<h1>Credits</h1>
 
 Game sounds from OpenGameArt.
 
